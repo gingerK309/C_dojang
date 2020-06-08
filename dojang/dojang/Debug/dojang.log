@@ -1,0 +1,4 @@
+﻿  dojang74.c
+D:\작업문서\Documents\Visual Studio 2019\dojang\dojang\dojang74.c(40): warning C4716: 'freeList': 값을 반환해야 합니다.
+D:\작업문서\Documents\Visual Studio 2019\dojang\dojang\dojang74.c(30): warning C4716: 'headFirst': 값을 반환해야 합니다.
+  dojang.vcxproj -> D:\작업문서\Documents\Visual Studio 2019\dojang\Debug\dojang.exe
