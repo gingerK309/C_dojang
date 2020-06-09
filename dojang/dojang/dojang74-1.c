@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+ï»¿k/*#include <stdio.h>
 #include <stdlib.h>
 #pragma warning (disable:4996)
 
@@ -29,7 +29,7 @@ void removeNode(struct NODE* node, int data)
    
 }
 
-//ÄÚµùµµÀå Ç®ÀÌ
+//ì½”ë”©ë„ì¥ í’€ì´
 void removeNode(struct NODE* node, int data) {
     if (node == NULL) return;
     struct NODE* rm = node;

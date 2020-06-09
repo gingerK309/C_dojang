@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+ï»¿/*#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "person.h"
@@ -10,9 +10,9 @@ int main()
 {
     p1 = malloc(sizeof(struct Person));
 
-    strcpy(p1->name, "È«±æµ¿");
+    strcpy(p1->name, "í™ê¸¸ë™");
     p1->age = 30;
-    strcpy(p1->address, "¼­¿ï½Ã ¿ë»ê±¸ ÇÑ³²µ¿");
+    strcpy(p1->address, "ì„œìš¸ì‹œ ìš©ì‚°êµ¬ í•œë‚¨ë™");
 
     printf("%s %d %s\n", p1->name, p1->age, p1->address);
 
