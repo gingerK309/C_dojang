@@ -1,4 +1,4 @@
-﻿k/*#include <stdio.h>
+﻿/*k#include <stdio.h>
 #include <stdlib.h>
 #pragma warning (disable:4996)
 

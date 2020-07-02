@@ -165,6 +165,8 @@
     <ClCompile Include="dojang76.c" />
     <ClCompile Include="dojang78.c" />
     <ClCompile Include="dojang79.c" />
+    <ClCompile Include="dojang81-1.c" />
+    <ClCompile Include="dojang81.c" />
     <ClCompile Include="print.c" />
     <ClCompile Include="sub.c" />
   </ItemGroup>

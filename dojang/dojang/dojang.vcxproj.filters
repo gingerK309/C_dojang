@@ -102,6 +102,12 @@
     <ClCompile Include="sub.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="dojang81.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dojang81-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="message.h">
