@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+ï»¿/*#include<stdio.h>
 
 #pragma warning (disable:4996)
 int main() {
@@ -23,7 +23,7 @@ int main() {
 	}
 	
 	
-	//ÄÚµù µµÀå ÇØ¼³
+	//ì½”ë”© ë„ì¥ í•´ì„¤
 	
 	for (int i = 0; i < num; i++) {
 		for (int j = num - 1; j >= 0; j--) {

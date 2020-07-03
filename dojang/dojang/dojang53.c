@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+ï»¿/*#include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 #pragma warning (disable:4996)
@@ -45,4 +45,4 @@ int main() {
 			senior = i;
 		}
 	}
-	printf("%s\n", p[senior]->name);//ÄÚµùµµÀå Ç®ÀÌ*/
+	printf("%s\n", p[senior]->name);//ì½”ë”©ë„ì¥ í’€ì´*/
