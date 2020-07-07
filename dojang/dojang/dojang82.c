@@ -1,4 +1,4 @@
-#pragma warning(disable:4996)
+/*#pragma warning(disable:4996)
 #include<stdio.h>
 #include<stdint.h>
 #include<stdlib.h>
@@ -102,4 +102,4 @@ FINALIZE:
     fclose(archive->fp);
     free(archive);
     return ret;
-}
+}*/

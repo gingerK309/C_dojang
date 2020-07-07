@@ -1,2 +1,7 @@
-﻿  dojang82.c
+﻿  dojang83-1.c
+  dojang83.c
+D:\작업문서\Documents\Visual Studio 2019\dojang\dojang\dojang83.c(71,1): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\작업문서\Documents\Visual Studio 2019\dojang\dojang\dojang83.c(90,1): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\작업문서\Documents\Visual Studio 2019\dojang\dojang\dojang83.c(113,1): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
   dojang.vcxproj -> D:\작업문서\Documents\Visual Studio 2019\dojang\x64\Debug\dojang.exe
